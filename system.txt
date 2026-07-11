@@ -1,0 +1,29 @@
+
+Os sys
+Nelson Mota
+7 de set. de 2025
+1 min de leitura
+
+
+What Is an Operating System?
+
+
+An operating system (OS) is the core software that makes a computer usable. Without it, the hardware would simply sit idle, waiting for instructions it could never understand on its own.
+
+
+As soon as the computer is powered on, the ROM (Read-Only Memory) provides the initial instructions to load the operating system. Once the OS is running, it takes full control of the system and begins managing everything:
+
+
+Input and Output (I/O): The OS handles communication between the user, applications, and hardware devices such as keyboards, screens, and storage drives.
+
+
+Memory Management: It allocates and frees memory so programs can run efficiently without interfering with each other.
+
+
+Processes: The OS organizes and schedules all running tasks, making sure each process gets the time and resources it needs.
+
+
+Resources: From CPU cycles to network bandwidth, the OS ensures fair and efficient distribution of resources.
+
+
+Peripherals: It manages external devices like printers, USB drives, and cameras, translating their signals into something the computer can understand.

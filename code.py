@@ -1,0 +1,10 @@
+print("\033c\033[47;31m\ngive me a text .txt file to encript ? ")
+a=input().strip()
+b=a.replace(".txt","")
+f1=open(a,"r",encoding="utf-8")
+f=f1.read()
+f1.close()
+
+f1=open(b+".bin","w",encoding="utf-32")
+f1.write(f)
+f1.close()
