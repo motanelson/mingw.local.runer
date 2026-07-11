@@ -1,1 +1,1 @@
-java decompiler, decompiles java my.java to byte code
+encript into 32 bits code page
